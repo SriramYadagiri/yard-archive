@@ -9,13 +9,15 @@ does NOT auto-detect staleness, it just loads whatever's on disk.
 """
 
 import pickle
+import os
 from datetime import datetime
 from pathlib import Path
 
 from build_bm25_index import tokenize
 from search import resolve_speaker, resolve_title, resolve_chunk_text, resolve_published_date
 
-INDEX_FILE = "bm25_index.pkl"
+DATA_DIR = Path(os.getenv("DATA_DIR", Path(__file__).resolve().parents[1] / "data"))
+INDEX_FILE = Path(os.getenv("BM25_INDEX_FILE", Path(__file__).resolve().parent / "bm25_index.pkl"))
 
 _index_data = None
 

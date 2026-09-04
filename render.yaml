@@ -2,10 +2,34 @@ services:
   - type: web
     name: yard-search-api
     runtime: python
+    plan: 1c-2g
     buildCommand: pip install -r requirements.txt
-    startCommand: cd src && uvicorn api:app --host 0.0.0.0 --port $PORT
+    startCommand: python src/ensure_data.py && cd src && uvicorn api:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /health
+    disk:
+      name: yard-search-data
+      mountPath: /var/data
+      sizeGB: 5
     envVars:
+      - key: PYTHON_VERSION
+        value: 3.13.7
       - key: OPENAI_API_KEY
         sync: false
+      - key: DATA_ARCHIVE_URL
+        sync: false
+      - key: DATA_DIR
+        value: /var/data
+      - key: BM25_INDEX_FILE
+        value: /var/data/bm25_index.pkl
       - key: ALLOWED_ORIGINS
+        sync: false
+
+  - type: web
+    name: yard-search
+    runtime: static
+    rootDir: frontend
+    buildCommand: npm ci && npm run build
+    staticPublishPath: ./dist
+    envVars:
+      - key: VITE_API_URL
         sync: false

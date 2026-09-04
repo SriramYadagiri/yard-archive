@@ -136,12 +136,32 @@ cd frontend
 npm run build
 ```
 
-The backend includes a Render blueprint in `render.yaml`. Set these environment variables on the host:
+The repository includes a Render Blueprint that creates a static frontend and a FastAPI web service. The API uses a persistent disk because the search corpus is too large for Git and Render's normal filesystem is ephemeral.
+
+First, create a gzip-compressed archive with this layout:
+
+```text
+chroma/
+transcripts/
+bm25_index.pkl
+```
+
+From the repository root, the following command creates it from the local search data:
+
+```bash
+tar -czf yard-search-data.tar.gz \
+  -C data chroma transcripts \
+  -C ../src bm25_index.pkl
+```
+
+Upload the archive to private object storage and create a download URL. Then create a new Blueprint in Render from this repository and provide these values when prompted:
 
 - `OPENAI_API_KEY`
-- `ALLOWED_ORIGINS` — comma-separated frontend origins, such as `https://example.com`
+- `DATA_ARCHIVE_URL` — a private or signed URL for `yard-search-data.tar.gz`
+- `ALLOWED_ORIGINS` — the frontend origin, such as `https://yard-search.onrender.com`
+- `VITE_API_URL` — the full search endpoint, such as `https://yard-search-api.onrender.com/search`
 
-Before deploying the frontend, update `API_URL` near the top of `frontend/src/App.jsx` to point to the deployed `/search` endpoint.
+On its first boot, the API streams the archive directly into `/var/data`. Later deploys reuse the restored corpus on the persistent disk.
 
 ## Notes
 

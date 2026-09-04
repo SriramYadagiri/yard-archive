@@ -4,7 +4,7 @@ import ResultCard from './components/ResultCard.jsx'
 import EmptyState from './components/EmptyState.jsx'
 import SkeletonCard from './components/SkeletonCard.jsx'
 
-const API_URL = 'http://localhost:8000/search'
+const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:8000/search'
 const PAGE_SIZE = 50
 
 const PLACEHOLDERS = [

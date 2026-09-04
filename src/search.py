@@ -7,6 +7,7 @@ import os
 import re
 import sys
 from datetime import datetime
+from pathlib import Path
 from dotenv import load_dotenv
 from openai import OpenAI
 import chromadb
@@ -16,8 +17,10 @@ load_dotenv()
 EMBEDDING_MODEL = "text-embedding-3-small"
 TOP_K = 5
 
+DATA_DIR = Path(os.getenv("DATA_DIR", Path(__file__).resolve().parents[1] / "data"))
+
 openai_client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-chroma_client = chromadb.PersistentClient(path="../data/chroma")
+chroma_client = chromadb.PersistentClient(path=str(DATA_DIR / "chroma"))
 collection = chroma_client.get_or_create_collection("yard_transcripts")
 
 _episode_cache = {}
@@ -26,7 +29,7 @@ _episode_cache = {}
 def _load_episode_data(video_id):
     if video_id not in _episode_cache:
         try:
-            with open(f"../data/transcripts/{video_id}.json") as f:
+            with (DATA_DIR / "transcripts" / f"{video_id}.json").open() as f:
                 _episode_cache[video_id] = json.load(f)
         except FileNotFoundError:
             _episode_cache[video_id] = {}

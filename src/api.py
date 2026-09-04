@@ -5,6 +5,7 @@ input validation, since every request costs real OpenAI API money.
 """
 
 import os
+from pathlib import Path
 from typing import Optional
 
 from fastapi import FastAPI, Request
@@ -36,6 +37,22 @@ app.add_middleware(
     allow_methods=["POST"],
     allow_headers=["*"],
 )
+
+DATA_DIR = Path(os.getenv("DATA_DIR", Path(__file__).resolve().parents[1] / "data"))
+BM25_INDEX_FILE = Path(
+    os.getenv("BM25_INDEX_FILE", Path(__file__).resolve().parent / "bm25_index.pkl")
+)
+
+
+@app.get("/health")
+def health():
+    required_paths = [
+        DATA_DIR / "chroma",
+        DATA_DIR / "transcripts",
+        BM25_INDEX_FILE,
+    ]
+    ready = all(path.exists() for path in required_paths)
+    return {"status": "ok" if ready else "starting", "data_ready": ready}
 
 
 class SearchRequest(BaseModel):
