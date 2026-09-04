@@ -1,0 +1,1483 @@
+[
+  {
+    "video_id": "wkMVfxNDLa0",
+    "url": "https://www.youtube.com/watch?v=wkMVfxNDLa0",
+    "status": "done"
+  },
+  {
+    "video_id": "RWyK7_3Hdw8",
+    "url": "https://www.youtube.com/watch?v=RWyK7_3Hdw8",
+    "status": "done"
+  },
+  {
+    "video_id": "nqnzyhsdm10",
+    "url": "https://www.youtube.com/watch?v=nqnzyhsdm10",
+    "status": "done"
+  },
+  {
+    "video_id": "s6DtrR1ClW0",
+    "url": "https://www.youtube.com/watch?v=s6DtrR1ClW0",
+    "status": "done"
+  },
+  {
+    "video_id": "wclqxOfUvoc",
+    "url": "https://www.youtube.com/watch?v=wclqxOfUvoc",
+    "status": "done"
+  },
+  {
+    "video_id": "Lzcr9wpLuGQ",
+    "url": "https://www.youtube.com/watch?v=Lzcr9wpLuGQ",
+    "status": "done"
+  },
+  {
+    "video_id": "2WwusgRYjHE",
+    "url": "https://www.youtube.com/watch?v=2WwusgRYjHE",
+    "status": "done"
+  },
+  {
+    "video_id": "6sRy0PWL1qA",
+    "url": "https://www.youtube.com/watch?v=6sRy0PWL1qA",
+    "status": "done"
+  },
+  {
+    "video_id": "AYGor71ZXYo",
+    "url": "https://www.youtube.com/watch?v=AYGor71ZXYo",
+    "status": "done"
+  },
+  {
+    "video_id": "QWrSLR1SMUM",
+    "url": "https://www.youtube.com/watch?v=QWrSLR1SMUM",
+    "status": "done"
+  },
+  {
+    "video_id": "KREiy2zyxgw",
+    "url": "https://www.youtube.com/watch?v=KREiy2zyxgw",
+    "status": "done"
+  },
+  {
+    "video_id": "uX0Wj5ZHoGM",
+    "url": "https://www.youtube.com/watch?v=uX0Wj5ZHoGM",
+    "status": "done"
+  },
+  {
+    "video_id": "UzRIw6wO6kE",
+    "url": "https://www.youtube.com/watch?v=UzRIw6wO6kE",
+    "status": "done"
+  },
+  {
+    "video_id": "bo2qODHjZJ8",
+    "url": "https://www.youtube.com/watch?v=bo2qODHjZJ8",
+    "status": "done"
+  },
+  {
+    "video_id": "hVbUs2DL1g0",
+    "url": "https://www.youtube.com/watch?v=hVbUs2DL1g0",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m unable to download video data: HTTP Error 403: Forbidden"
+  },
+  {
+    "video_id": "32AVbGBq6-U",
+    "url": "https://www.youtube.com/watch?v=32AVbGBq6-U",
+    "status": "done"
+  },
+  {
+    "video_id": "DoeZnsNLGgQ",
+    "url": "https://www.youtube.com/watch?v=DoeZnsNLGgQ",
+    "status": "done"
+  },
+  {
+    "video_id": "FMxFnRwgGSE",
+    "url": "https://www.youtube.com/watch?v=FMxFnRwgGSE",
+    "status": "done"
+  },
+  {
+    "video_id": "o5Qbru8My44",
+    "url": "https://www.youtube.com/watch?v=o5Qbru8My44",
+    "status": "done"
+  },
+  {
+    "video_id": "9WO6wkjf7sA",
+    "url": "https://www.youtube.com/watch?v=9WO6wkjf7sA",
+    "status": "done"
+  },
+  {
+    "video_id": "EzeQ3MOlcyk",
+    "url": "https://www.youtube.com/watch?v=EzeQ3MOlcyk",
+    "status": "done"
+  },
+  {
+    "video_id": "Z2TVGJNj0xM",
+    "url": "https://www.youtube.com/watch?v=Z2TVGJNj0xM",
+    "status": "unavailable",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] Z2TVGJNj0xM: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "9g2jRjpRHYI",
+    "url": "https://www.youtube.com/watch?v=9g2jRjpRHYI",
+    "status": "done"
+  },
+  {
+    "video_id": "wvlocf1HbWc",
+    "url": "https://www.youtube.com/watch?v=wvlocf1HbWc",
+    "status": "done"
+  },
+  {
+    "video_id": "cJ3uhNhxwKA",
+    "url": "https://www.youtube.com/watch?v=cJ3uhNhxwKA",
+    "status": "done"
+  },
+  {
+    "video_id": "9qxyOfmJ0H0",
+    "url": "https://www.youtube.com/watch?v=9qxyOfmJ0H0",
+    "status": "unavailable",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] 9qxyOfmJ0H0: Video unavailable. This video is not available"
+  },
+  {
+    "video_id": "eTlAWnjkFDw",
+    "url": "https://www.youtube.com/watch?v=eTlAWnjkFDw",
+    "status": "done"
+  },
+  {
+    "video_id": "XxLQaJUoIEQ",
+    "url": "https://www.youtube.com/watch?v=XxLQaJUoIEQ",
+    "status": "done"
+  },
+  {
+    "video_id": "9Dz1cK288e8",
+    "url": "https://www.youtube.com/watch?v=9Dz1cK288e8",
+    "status": "done"
+  },
+  {
+    "video_id": "PKMpkDQdEoE",
+    "url": "https://www.youtube.com/watch?v=PKMpkDQdEoE",
+    "status": "done"
+  },
+  {
+    "video_id": "AQImPd1R0yE",
+    "url": "https://www.youtube.com/watch?v=AQImPd1R0yE",
+    "status": "done"
+  },
+  {
+    "video_id": "T0ZlDzU4BGo",
+    "url": "https://www.youtube.com/watch?v=T0ZlDzU4BGo",
+    "status": "unavailable",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] T0ZlDzU4BGo: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "63bMe88Bg68",
+    "url": "https://www.youtube.com/watch?v=63bMe88Bg68",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m could not find chrome cookies database in \"/Users/sriram/Library/Application Support/Google/Chrome\""
+  },
+  {
+    "video_id": "S3hKKwmUsCA",
+    "url": "https://www.youtube.com/watch?v=S3hKKwmUsCA",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m could not find chrome cookies database in \"/Users/sriram/Library/Application Support/Google/Chrome\""
+  },
+  {
+    "video_id": "Q6cm15Wl5GE",
+    "url": "https://www.youtube.com/watch?v=Q6cm15Wl5GE",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m could not find chrome cookies database in \"/Users/sriram/Library/Application Support/Google/Chrome\""
+  },
+  {
+    "video_id": "vN_56TWv2TU",
+    "url": "https://www.youtube.com/watch?v=vN_56TWv2TU",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m could not find chrome cookies database in \"/Users/sriram/Library/Application Support/Google/Chrome\""
+  },
+  {
+    "video_id": "hLxH7Djauzg",
+    "url": "https://www.youtube.com/watch?v=hLxH7Djauzg",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m could not find chrome cookies database in \"/Users/sriram/Library/Application Support/Google/Chrome\""
+  },
+  {
+    "video_id": "uynSPbX4flw",
+    "url": "https://www.youtube.com/watch?v=uynSPbX4flw",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m could not find chrome cookies database in \"/Users/sriram/Library/Application Support/Google/Chrome\""
+  },
+  {
+    "video_id": "KN5re_c3rCA",
+    "url": "https://www.youtube.com/watch?v=KN5re_c3rCA",
+    "status": "unavailable",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] KN5re_c3rCA: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "jRA8YUdecuw",
+    "url": "https://www.youtube.com/watch?v=jRA8YUdecuw",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m could not find chrome cookies database in \"/Users/sriram/Library/Application Support/Google/Chrome\""
+  },
+  {
+    "video_id": "veexHvvl7oM",
+    "url": "https://www.youtube.com/watch?v=veexHvvl7oM",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m could not find chrome cookies database in \"/Users/sriram/Library/Application Support/Google/Chrome\""
+  },
+  {
+    "video_id": "9GuM_UcKT4g",
+    "url": "https://www.youtube.com/watch?v=9GuM_UcKT4g",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] 9GuM_UcKT4g: Video unavailable. This video is not available"
+  },
+  {
+    "video_id": "swTxcKgZC6g",
+    "url": "https://www.youtube.com/watch?v=swTxcKgZC6g",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] swTxcKgZC6g: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "No8EF-nl4Kc",
+    "url": "https://www.youtube.com/watch?v=No8EF-nl4Kc",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] No8EF-nl4Kc: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "c25P76DQX64",
+    "url": "https://www.youtube.com/watch?v=c25P76DQX64",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] c25P76DQX64: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "I6e4ZwTZ0jI",
+    "url": "https://www.youtube.com/watch?v=I6e4ZwTZ0jI",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] I6e4ZwTZ0jI: Requested format is not available. Use --list-formats for a list of available formats"
+  },
+  {
+    "video_id": "vvZUSWtYLBE",
+    "url": "https://www.youtube.com/watch?v=vvZUSWtYLBE",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] vvZUSWtYLBE: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "8BBYZXpIvUw",
+    "url": "https://www.youtube.com/watch?v=8BBYZXpIvUw",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] 8BBYZXpIvUw: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "EuJz5gnSHAg",
+    "url": "https://www.youtube.com/watch?v=EuJz5gnSHAg",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] EuJz5gnSHAg: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "pBKAkrBrdkc",
+    "url": "https://www.youtube.com/watch?v=pBKAkrBrdkc",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] pBKAkrBrdkc: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "1Q0G-WS9Mmg",
+    "url": "https://www.youtube.com/watch?v=1Q0G-WS9Mmg",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] 1Q0G-WS9Mmg: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "lAgGb-MjN_s",
+    "url": "https://www.youtube.com/watch?v=lAgGb-MjN_s",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] lAgGb-MjN_s: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "2ifL7YPlY64",
+    "url": "https://www.youtube.com/watch?v=2ifL7YPlY64",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] 2ifL7YPlY64: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "ao5GfJe0egI",
+    "url": "https://www.youtube.com/watch?v=ao5GfJe0egI",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] ao5GfJe0egI: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "_H56zDYoF_o",
+    "url": "https://www.youtube.com/watch?v=_H56zDYoF_o",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] _H56zDYoF_o: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "VMMs2AeaLao",
+    "url": "https://www.youtube.com/watch?v=VMMs2AeaLao",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] VMMs2AeaLao: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "Bxa7Xin_b88",
+    "url": "https://www.youtube.com/watch?v=Bxa7Xin_b88",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] Bxa7Xin_b88: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "5vjoG2riOj0",
+    "url": "https://www.youtube.com/watch?v=5vjoG2riOj0",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] 5vjoG2riOj0: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "ZeH6vvSKd-c",
+    "url": "https://www.youtube.com/watch?v=ZeH6vvSKd-c",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] ZeH6vvSKd-c: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "rhuuewm_mEo",
+    "url": "https://www.youtube.com/watch?v=rhuuewm_mEo",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] rhuuewm_mEo: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "rboocgoefaQ",
+    "url": "https://www.youtube.com/watch?v=rboocgoefaQ",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] rboocgoefaQ: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "j4K_hn9LJ5M",
+    "url": "https://www.youtube.com/watch?v=j4K_hn9LJ5M",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] j4K_hn9LJ5M: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "ioDpjYANuE0",
+    "url": "https://www.youtube.com/watch?v=ioDpjYANuE0",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] ioDpjYANuE0: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "3DRh28ThbRw",
+    "url": "https://www.youtube.com/watch?v=3DRh28ThbRw",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] 3DRh28ThbRw: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "bgc2rPnqM_k",
+    "url": "https://www.youtube.com/watch?v=bgc2rPnqM_k",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] bgc2rPnqM_k: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "h4pGsdvVQ0w",
+    "url": "https://www.youtube.com/watch?v=h4pGsdvVQ0w",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] h4pGsdvVQ0w: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "oO1faCIvDiY",
+    "url": "https://www.youtube.com/watch?v=oO1faCIvDiY",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] oO1faCIvDiY: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "2sbOZG24pzg",
+    "url": "https://www.youtube.com/watch?v=2sbOZG24pzg",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] 2sbOZG24pzg: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "toPVr29BIO0",
+    "url": "https://www.youtube.com/watch?v=toPVr29BIO0",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] toPVr29BIO0: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "PrESIvzCXDw",
+    "url": "https://www.youtube.com/watch?v=PrESIvzCXDw",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] PrESIvzCXDw: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "52MJTALHlN4",
+    "url": "https://www.youtube.com/watch?v=52MJTALHlN4",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] 52MJTALHlN4: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "lEFzeutV_ow",
+    "url": "https://www.youtube.com/watch?v=lEFzeutV_ow",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] lEFzeutV_ow: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "GSvU9wb77l8",
+    "url": "https://www.youtube.com/watch?v=GSvU9wb77l8",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] GSvU9wb77l8: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "CqJLgAhqpm0",
+    "url": "https://www.youtube.com/watch?v=CqJLgAhqpm0",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] CqJLgAhqpm0: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "pPdrlRYMmqA",
+    "url": "https://www.youtube.com/watch?v=pPdrlRYMmqA",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] pPdrlRYMmqA: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "LrQNj90aRIE",
+    "url": "https://www.youtube.com/watch?v=LrQNj90aRIE",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] LrQNj90aRIE: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "18qFKYTArmo",
+    "url": "https://www.youtube.com/watch?v=18qFKYTArmo",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] 18qFKYTArmo: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "AejqDgxiwH8",
+    "url": "https://www.youtube.com/watch?v=AejqDgxiwH8",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] AejqDgxiwH8: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "9swsTf2ixPY",
+    "url": "https://www.youtube.com/watch?v=9swsTf2ixPY",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] 9swsTf2ixPY: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "UG4oz_Zjo-8",
+    "url": "https://www.youtube.com/watch?v=UG4oz_Zjo-8",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] UG4oz_Zjo-8: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "gMPb4ezfKYA",
+    "url": "https://www.youtube.com/watch?v=gMPb4ezfKYA",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] gMPb4ezfKYA: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "MGWqzaAFdXU",
+    "url": "https://www.youtube.com/watch?v=MGWqzaAFdXU",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] MGWqzaAFdXU: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "VyQSPESOASg",
+    "url": "https://www.youtube.com/watch?v=VyQSPESOASg",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] VyQSPESOASg: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "gPVnY_pTNHQ",
+    "url": "https://www.youtube.com/watch?v=gPVnY_pTNHQ",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] gPVnY_pTNHQ: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "feYfibTxeXY",
+    "url": "https://www.youtube.com/watch?v=feYfibTxeXY",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] feYfibTxeXY: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "a1UrBuP98Bc",
+    "url": "https://www.youtube.com/watch?v=a1UrBuP98Bc",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] a1UrBuP98Bc: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "UD5VKH73cB0",
+    "url": "https://www.youtube.com/watch?v=UD5VKH73cB0",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m \r[download] Got error: (\"Connection broken: ConnectionResetError(54, 'Connection reset by peer')\", ConnectionResetError(54, 'Connection reset by peer'))"
+  },
+  {
+    "video_id": "ch6oTupFsj0",
+    "url": "https://www.youtube.com/watch?v=ch6oTupFsj0",
+    "status": "done"
+  },
+  {
+    "video_id": "Sh6LvuysfW8",
+    "url": "https://www.youtube.com/watch?v=Sh6LvuysfW8",
+    "status": "done"
+  },
+  {
+    "video_id": "W9ZxRJvGA40",
+    "url": "https://www.youtube.com/watch?v=W9ZxRJvGA40",
+    "status": "done"
+  },
+  {
+    "video_id": "MHcMuxpq6ac",
+    "url": "https://www.youtube.com/watch?v=MHcMuxpq6ac",
+    "status": "done"
+  },
+  {
+    "video_id": "PjBSEz6yHnw",
+    "url": "https://www.youtube.com/watch?v=PjBSEz6yHnw",
+    "status": "done"
+  },
+  {
+    "video_id": "ebMdQvZfSBE",
+    "url": "https://www.youtube.com/watch?v=ebMdQvZfSBE",
+    "status": "done"
+  },
+  {
+    "video_id": "DbXQiMKbobg",
+    "url": "https://www.youtube.com/watch?v=DbXQiMKbobg",
+    "status": "done"
+  },
+  {
+    "video_id": "fYTVvBauqXY",
+    "url": "https://www.youtube.com/watch?v=fYTVvBauqXY",
+    "status": "done"
+  },
+  {
+    "video_id": "Q41iRrrSCpY",
+    "url": "https://www.youtube.com/watch?v=Q41iRrrSCpY",
+    "status": "done"
+  },
+  {
+    "video_id": "EX7rkVtKyjY",
+    "url": "https://www.youtube.com/watch?v=EX7rkVtKyjY",
+    "status": "done"
+  },
+  {
+    "video_id": "knVaPQK5M6w",
+    "url": "https://www.youtube.com/watch?v=knVaPQK5M6w",
+    "status": "done"
+  },
+  {
+    "video_id": "QrWqdZSBI-g",
+    "url": "https://www.youtube.com/watch?v=QrWqdZSBI-g",
+    "status": "done"
+  },
+  {
+    "video_id": "nHaU3fsutG0",
+    "url": "https://www.youtube.com/watch?v=nHaU3fsutG0",
+    "status": "done"
+  },
+  {
+    "video_id": "d4PYKOysTTM",
+    "url": "https://www.youtube.com/watch?v=d4PYKOysTTM",
+    "status": "done"
+  },
+  {
+    "video_id": "34TXpi9LIQY",
+    "url": "https://www.youtube.com/watch?v=34TXpi9LIQY",
+    "status": "done"
+  },
+  {
+    "video_id": "her8TkxyMAs",
+    "url": "https://www.youtube.com/watch?v=her8TkxyMAs",
+    "status": "done"
+  },
+  {
+    "video_id": "p72aA3DMOOs",
+    "url": "https://www.youtube.com/watch?v=p72aA3DMOOs",
+    "status": "done"
+  },
+  {
+    "video_id": "7o-f5jCf2e4",
+    "url": "https://www.youtube.com/watch?v=7o-f5jCf2e4",
+    "status": "done"
+  },
+  {
+    "video_id": "O8o_zAQYikg",
+    "url": "https://www.youtube.com/watch?v=O8o_zAQYikg",
+    "status": "done"
+  },
+  {
+    "video_id": "Y6OLVYIaGHw",
+    "url": "https://www.youtube.com/watch?v=Y6OLVYIaGHw",
+    "status": "done"
+  },
+  {
+    "video_id": "8y9P4Gg0Vck",
+    "url": "https://www.youtube.com/watch?v=8y9P4Gg0Vck",
+    "status": "done"
+  },
+  {
+    "video_id": "_gTWufFn2lU",
+    "url": "https://www.youtube.com/watch?v=_gTWufFn2lU",
+    "status": "done"
+  },
+  {
+    "video_id": "nquvtwnHf3s",
+    "url": "https://www.youtube.com/watch?v=nquvtwnHf3s",
+    "status": "done"
+  },
+  {
+    "video_id": "HYlY4cfN55g",
+    "url": "https://www.youtube.com/watch?v=HYlY4cfN55g",
+    "status": "done"
+  },
+  {
+    "video_id": "jcKiINW2Q9s",
+    "url": "https://www.youtube.com/watch?v=jcKiINW2Q9s",
+    "status": "done"
+  },
+  {
+    "video_id": "QWcKrhbr9yw",
+    "url": "https://www.youtube.com/watch?v=QWcKrhbr9yw",
+    "status": "done"
+  },
+  {
+    "video_id": "J1oINUxb9wo",
+    "url": "https://www.youtube.com/watch?v=J1oINUxb9wo",
+    "status": "done"
+  },
+  {
+    "video_id": "SZAzAGADxxU",
+    "url": "https://www.youtube.com/watch?v=SZAzAGADxxU",
+    "status": "done"
+  },
+  {
+    "video_id": "Ou_l44FY-V0",
+    "url": "https://www.youtube.com/watch?v=Ou_l44FY-V0",
+    "status": "done"
+  },
+  {
+    "video_id": "RJg2YmPOId4",
+    "url": "https://www.youtube.com/watch?v=RJg2YmPOId4",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m \r[download] Got error: HTTPSConnectionPool(host='rr3---sn-uhvcpax0n5-p5ir.googlevideo.com', port=443): Read timed out."
+  },
+  {
+    "video_id": "j3Sj3l6kwjE",
+    "url": "https://www.youtube.com/watch?v=j3Sj3l6kwjE",
+    "status": "done"
+  },
+  {
+    "video_id": "h8x--lkarZQ",
+    "url": "https://www.youtube.com/watch?v=h8x--lkarZQ",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] h8x--lkarZQ: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "vvtaDS0B334",
+    "url": "https://www.youtube.com/watch?v=vvtaDS0B334",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] vvtaDS0B334: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "yEtas5LGpyA",
+    "url": "https://www.youtube.com/watch?v=yEtas5LGpyA",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] yEtas5LGpyA: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "df3pbeR2XTo",
+    "url": "https://www.youtube.com/watch?v=df3pbeR2XTo",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] df3pbeR2XTo: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "9jdJS4CTKnY",
+    "url": "https://www.youtube.com/watch?v=9jdJS4CTKnY",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] 9jdJS4CTKnY: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "n3ctwX5SxN8",
+    "url": "https://www.youtube.com/watch?v=n3ctwX5SxN8",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] n3ctwX5SxN8: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "nE1aGbb6AMw",
+    "url": "https://www.youtube.com/watch?v=nE1aGbb6AMw",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] nE1aGbb6AMw: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "UrwLUN5bN48",
+    "url": "https://www.youtube.com/watch?v=UrwLUN5bN48",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] UrwLUN5bN48: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "jb2eduCEP30",
+    "url": "https://www.youtube.com/watch?v=jb2eduCEP30",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] jb2eduCEP30: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "kqIzw_S_bCs",
+    "url": "https://www.youtube.com/watch?v=kqIzw_S_bCs",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] kqIzw_S_bCs: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "yUrX-tM0bB4",
+    "url": "https://www.youtube.com/watch?v=yUrX-tM0bB4",
+    "status": "done"
+  },
+  {
+    "video_id": "xVbw4vWh8oM",
+    "url": "https://www.youtube.com/watch?v=xVbw4vWh8oM",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] xVbw4vWh8oM: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "d5S-HBl3Fw0",
+    "url": "https://www.youtube.com/watch?v=d5S-HBl3Fw0",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] d5S-HBl3Fw0: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "8lWdPpwCe4c",
+    "url": "https://www.youtube.com/watch?v=8lWdPpwCe4c",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] 8lWdPpwCe4c: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "lQR6x1BvgF4",
+    "url": "https://www.youtube.com/watch?v=lQR6x1BvgF4",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] lQR6x1BvgF4: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "52nYOwcitJk",
+    "url": "https://www.youtube.com/watch?v=52nYOwcitJk",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] 52nYOwcitJk: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "Pq_ai6j33yc",
+    "url": "https://www.youtube.com/watch?v=Pq_ai6j33yc",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] Pq_ai6j33yc: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "X9mtWsq-UyA",
+    "url": "https://www.youtube.com/watch?v=X9mtWsq-UyA",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] X9mtWsq-UyA: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "cq_-PHzb9zo",
+    "url": "https://www.youtube.com/watch?v=cq_-PHzb9zo",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] cq_-PHzb9zo: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "2hFa0zNeOdM",
+    "url": "https://www.youtube.com/watch?v=2hFa0zNeOdM",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] 2hFa0zNeOdM: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "MvPYcgjgEN0",
+    "url": "https://www.youtube.com/watch?v=MvPYcgjgEN0",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m unable to download video data: HTTP Error 403: Forbidden"
+  },
+  {
+    "video_id": "w2vR7IANRkg",
+    "url": "https://www.youtube.com/watch?v=w2vR7IANRkg",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] w2vR7IANRkg: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "Zj6aXVq-od8",
+    "url": "https://www.youtube.com/watch?v=Zj6aXVq-od8",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] Zj6aXVq-od8: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "xclbB-i4q9Q",
+    "url": "https://www.youtube.com/watch?v=xclbB-i4q9Q",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] xclbB-i4q9Q: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "iYtK-9gJRkc",
+    "url": "https://www.youtube.com/watch?v=iYtK-9gJRkc",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] iYtK-9gJRkc: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "qlY8CZfe-aQ",
+    "url": "https://www.youtube.com/watch?v=qlY8CZfe-aQ",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] qlY8CZfe-aQ: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "hUjmO1_6QUQ",
+    "url": "https://www.youtube.com/watch?v=hUjmO1_6QUQ",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m unable to download video data: HTTP Error 403: Forbidden"
+  },
+  {
+    "video_id": "weCsoqexN4I",
+    "url": "https://www.youtube.com/watch?v=weCsoqexN4I",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] weCsoqexN4I: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "1fG9HiQZaMg",
+    "url": "https://www.youtube.com/watch?v=1fG9HiQZaMg",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] 1fG9HiQZaMg: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "Ldd4E7F9EkA",
+    "url": "https://www.youtube.com/watch?v=Ldd4E7F9EkA",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] Ldd4E7F9EkA: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "qJ97Ok2f3U8",
+    "url": "https://www.youtube.com/watch?v=qJ97Ok2f3U8",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] qJ97Ok2f3U8: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "nFcH9BaFgAo",
+    "url": "https://www.youtube.com/watch?v=nFcH9BaFgAo",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] nFcH9BaFgAo: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "ci3Wjic4FD8",
+    "url": "https://www.youtube.com/watch?v=ci3Wjic4FD8",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] ci3Wjic4FD8: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "ylZZP284ZIc",
+    "url": "https://www.youtube.com/watch?v=ylZZP284ZIc",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] ylZZP284ZIc: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "ptWQq1gKSDc",
+    "url": "https://www.youtube.com/watch?v=ptWQq1gKSDc",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] ptWQq1gKSDc: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "XTnIj9uuPJ0",
+    "url": "https://www.youtube.com/watch?v=XTnIj9uuPJ0",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] XTnIj9uuPJ0: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "1U6_h5Xbmog",
+    "url": "https://www.youtube.com/watch?v=1U6_h5Xbmog",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] 1U6_h5Xbmog: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "7JmynVryQtU",
+    "url": "https://www.youtube.com/watch?v=7JmynVryQtU",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] 7JmynVryQtU: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "FUx46Z8nHGk",
+    "url": "https://www.youtube.com/watch?v=FUx46Z8nHGk",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] FUx46Z8nHGk: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "JrWmygMyNzI",
+    "url": "https://www.youtube.com/watch?v=JrWmygMyNzI",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] JrWmygMyNzI: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "vTcgTlKGuIk",
+    "url": "https://www.youtube.com/watch?v=vTcgTlKGuIk",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] vTcgTlKGuIk: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "ilwP-eyWJes",
+    "url": "https://www.youtube.com/watch?v=ilwP-eyWJes",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] ilwP-eyWJes: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "hkpbx2ILfD0",
+    "url": "https://www.youtube.com/watch?v=hkpbx2ILfD0",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] hkpbx2ILfD0: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "bTHkgMOuzcc",
+    "url": "https://www.youtube.com/watch?v=bTHkgMOuzcc",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] bTHkgMOuzcc: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "KYdrbENhR2Q",
+    "url": "https://www.youtube.com/watch?v=KYdrbENhR2Q",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] KYdrbENhR2Q: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "aN8h4MHMbZ4",
+    "url": "https://www.youtube.com/watch?v=aN8h4MHMbZ4",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] aN8h4MHMbZ4: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "TnCqOvmuWtw",
+    "url": "https://www.youtube.com/watch?v=TnCqOvmuWtw",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] TnCqOvmuWtw: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "0zgzE3BhKHs",
+    "url": "https://www.youtube.com/watch?v=0zgzE3BhKHs",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] 0zgzE3BhKHs: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "XeB-AsRJ3bo",
+    "url": "https://www.youtube.com/watch?v=XeB-AsRJ3bo",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] XeB-AsRJ3bo: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "I3i000KlRMo",
+    "url": "https://www.youtube.com/watch?v=I3i000KlRMo",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] I3i000KlRMo: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "AnU1PyKQ-h0",
+    "url": "https://www.youtube.com/watch?v=AnU1PyKQ-h0",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] AnU1PyKQ-h0: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "xEZYqlels7Q",
+    "url": "https://www.youtube.com/watch?v=xEZYqlels7Q",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] xEZYqlels7Q: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "jnt0Vk4A5Vw",
+    "url": "https://www.youtube.com/watch?v=jnt0Vk4A5Vw",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] jnt0Vk4A5Vw: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "Hr1jEUPg4yw",
+    "url": "https://www.youtube.com/watch?v=Hr1jEUPg4yw",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] Hr1jEUPg4yw: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "A4LnKzn_8wE",
+    "url": "https://www.youtube.com/watch?v=A4LnKzn_8wE",
+    "status": "done"
+  },
+  {
+    "video_id": "zoSR5xBYZ3I",
+    "url": "https://www.youtube.com/watch?v=zoSR5xBYZ3I",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] zoSR5xBYZ3I: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "gGIoMLuC10k",
+    "url": "https://www.youtube.com/watch?v=gGIoMLuC10k",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] gGIoMLuC10k: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "Ked8cC4rfas",
+    "url": "https://www.youtube.com/watch?v=Ked8cC4rfas",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] Ked8cC4rfas: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "4vYRHBb8nwo",
+    "url": "https://www.youtube.com/watch?v=4vYRHBb8nwo",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] 4vYRHBb8nwo: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "HCxB__um92k",
+    "url": "https://www.youtube.com/watch?v=HCxB__um92k",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] HCxB__um92k: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "zzyai3wAkpo",
+    "url": "https://www.youtube.com/watch?v=zzyai3wAkpo",
+    "status": "done",
+    "error": "The write operation timed out"
+  },
+  {
+    "video_id": "x7UDHcATxn4",
+    "url": "https://www.youtube.com/watch?v=x7UDHcATxn4",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m \r[download] Got error: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))"
+  },
+  {
+    "video_id": "w58Uww5eOuA",
+    "url": "https://www.youtube.com/watch?v=w58Uww5eOuA",
+    "status": "done",
+    "error": "The write operation timed out"
+  },
+  {
+    "video_id": "nrFAN4-7OL8",
+    "url": "https://www.youtube.com/watch?v=nrFAN4-7OL8",
+    "status": "done",
+    "error": "The write operation timed out"
+  },
+  {
+    "video_id": "S2LuvpsbeqI",
+    "url": "https://www.youtube.com/watch?v=S2LuvpsbeqI",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] S2LuvpsbeqI: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "CAMb5CMTHb0",
+    "url": "https://www.youtube.com/watch?v=CAMb5CMTHb0",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] CAMb5CMTHb0: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "5a6vUZDhjqY",
+    "url": "https://www.youtube.com/watch?v=5a6vUZDhjqY",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] 5a6vUZDhjqY: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "9jG-bZFSE2E",
+    "url": "https://www.youtube.com/watch?v=9jG-bZFSE2E",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] 9jG-bZFSE2E: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "ajjnZ3Vrq50",
+    "url": "https://www.youtube.com/watch?v=ajjnZ3Vrq50",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] ajjnZ3Vrq50: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "PEkGKEEU8Zc",
+    "url": "https://www.youtube.com/watch?v=PEkGKEEU8Zc",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] PEkGKEEU8Zc: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "yRRAamsxlyk",
+    "url": "https://www.youtube.com/watch?v=yRRAamsxlyk",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] yRRAamsxlyk: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "nE7EcQGkXBw",
+    "url": "https://www.youtube.com/watch?v=nE7EcQGkXBw",
+    "status": "unavailable",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] nE7EcQGkXBw: Video unavailable. This video is not available"
+  },
+  {
+    "video_id": "tLx2eO-eOk4",
+    "url": "https://www.youtube.com/watch?v=tLx2eO-eOk4",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] tLx2eO-eOk4: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "7Eg7U3etzBE",
+    "url": "https://www.youtube.com/watch?v=7Eg7U3etzBE",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] 7Eg7U3etzBE: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "pF3jDAO91Ns",
+    "url": "https://www.youtube.com/watch?v=pF3jDAO91Ns",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] pF3jDAO91Ns: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "2jIAZLUHsYI",
+    "url": "https://www.youtube.com/watch?v=2jIAZLUHsYI",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] 2jIAZLUHsYI: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "9EwjfG_wP08",
+    "url": "https://www.youtube.com/watch?v=9EwjfG_wP08",
+    "status": "done"
+  },
+  {
+    "video_id": "kUip2JmTWwQ",
+    "url": "https://www.youtube.com/watch?v=kUip2JmTWwQ",
+    "status": "done"
+  },
+  {
+    "video_id": "stiTZHklngw",
+    "url": "https://www.youtube.com/watch?v=stiTZHklngw",
+    "status": "done"
+  },
+  {
+    "video_id": "FWxHZmhdRCo",
+    "url": "https://www.youtube.com/watch?v=FWxHZmhdRCo",
+    "status": "done"
+  },
+  {
+    "video_id": "rv_ozb908b8",
+    "url": "https://www.youtube.com/watch?v=rv_ozb908b8",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] rv_ozb908b8: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "zNAkGEMxcq4",
+    "url": "https://www.youtube.com/watch?v=zNAkGEMxcq4",
+    "status": "done"
+  },
+  {
+    "video_id": "uZtkTafn2HA",
+    "url": "https://www.youtube.com/watch?v=uZtkTafn2HA",
+    "status": "done"
+  },
+  {
+    "video_id": "OVPsV-O5eh4",
+    "url": "https://www.youtube.com/watch?v=OVPsV-O5eh4",
+    "status": "done"
+  },
+  {
+    "video_id": "JCDUZEdkwTQ",
+    "url": "https://www.youtube.com/watch?v=JCDUZEdkwTQ",
+    "status": "done"
+  },
+  {
+    "video_id": "orfyfLKocw4",
+    "url": "https://www.youtube.com/watch?v=orfyfLKocw4",
+    "status": "done"
+  },
+  {
+    "video_id": "XmXRd43_gWA",
+    "url": "https://www.youtube.com/watch?v=XmXRd43_gWA",
+    "status": "done"
+  },
+  {
+    "video_id": "C0ZfPf6Sh1s",
+    "url": "https://www.youtube.com/watch?v=C0ZfPf6Sh1s",
+    "status": "done"
+  },
+  {
+    "video_id": "AeFoEJuJk9A",
+    "url": "https://www.youtube.com/watch?v=AeFoEJuJk9A",
+    "status": "done"
+  },
+  {
+    "video_id": "KKPn5dFpdQc",
+    "url": "https://www.youtube.com/watch?v=KKPn5dFpdQc",
+    "status": "done"
+  },
+  {
+    "video_id": "_jA_Q1cxD4A",
+    "url": "https://www.youtube.com/watch?v=_jA_Q1cxD4A",
+    "status": "done"
+  },
+  {
+    "video_id": "kxnZuddEYCg",
+    "url": "https://www.youtube.com/watch?v=kxnZuddEYCg",
+    "status": "done"
+  },
+  {
+    "video_id": "-4iG7Lloy1U",
+    "url": "https://www.youtube.com/watch?v=-4iG7Lloy1U",
+    "status": "done"
+  },
+  {
+    "video_id": "sevJO5KCHIo",
+    "url": "https://www.youtube.com/watch?v=sevJO5KCHIo",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] sevJO5KCHIo: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "OCN0cRv3JrM",
+    "url": "https://www.youtube.com/watch?v=OCN0cRv3JrM",
+    "status": "done"
+  },
+  {
+    "video_id": "MZky1rqN8LM",
+    "url": "https://www.youtube.com/watch?v=MZky1rqN8LM",
+    "status": "done"
+  },
+  {
+    "video_id": "HBu16C5kGK4",
+    "url": "https://www.youtube.com/watch?v=HBu16C5kGK4",
+    "status": "done"
+  },
+  {
+    "video_id": "p7pylzQvxvQ",
+    "url": "https://www.youtube.com/watch?v=p7pylzQvxvQ",
+    "status": "done"
+  },
+  {
+    "video_id": "y8K6QazBqrY",
+    "url": "https://www.youtube.com/watch?v=y8K6QazBqrY",
+    "status": "done"
+  },
+  {
+    "video_id": "rKgVOYolKZg",
+    "url": "https://www.youtube.com/watch?v=rKgVOYolKZg",
+    "status": "done"
+  },
+  {
+    "video_id": "i9JUQZ3jv1s",
+    "url": "https://www.youtube.com/watch?v=i9JUQZ3jv1s",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] i9JUQZ3jv1s: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "llC62hsJ08o",
+    "url": "https://www.youtube.com/watch?v=llC62hsJ08o",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] llC62hsJ08o: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "ov7IgNevMm8",
+    "url": "https://www.youtube.com/watch?v=ov7IgNevMm8",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m unable to download video data: HTTP Error 403: Forbidden"
+  },
+  {
+    "video_id": "eHHTptdVH4Y",
+    "url": "https://www.youtube.com/watch?v=eHHTptdVH4Y",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] eHHTptdVH4Y: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "GWUwbWN4vYo",
+    "url": "https://www.youtube.com/watch?v=GWUwbWN4vYo",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] GWUwbWN4vYo: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "s8vI2E5cMus",
+    "url": "https://www.youtube.com/watch?v=s8vI2E5cMus",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] s8vI2E5cMus: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "3XDc9pFEG_k",
+    "url": "https://www.youtube.com/watch?v=3XDc9pFEG_k",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] 3XDc9pFEG_k: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "13X3054PSvk",
+    "url": "https://www.youtube.com/watch?v=13X3054PSvk",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] 13X3054PSvk: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "unLJ--g6ObY",
+    "url": "https://www.youtube.com/watch?v=unLJ--g6ObY",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] unLJ--g6ObY: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "lBh8PVox_cI",
+    "url": "https://www.youtube.com/watch?v=lBh8PVox_cI",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] lBh8PVox_cI: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "KZQ-cr1hnVo",
+    "url": "https://www.youtube.com/watch?v=KZQ-cr1hnVo",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] KZQ-cr1hnVo: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "nYZGZ7vNJaA",
+    "url": "https://www.youtube.com/watch?v=nYZGZ7vNJaA",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] nYZGZ7vNJaA: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "gah8tFabObk",
+    "url": "https://www.youtube.com/watch?v=gah8tFabObk",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] gah8tFabObk: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "HYJL_nAUEgw",
+    "url": "https://www.youtube.com/watch?v=HYJL_nAUEgw",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] HYJL_nAUEgw: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "fACnP5qTVZg",
+    "url": "https://www.youtube.com/watch?v=fACnP5qTVZg",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] fACnP5qTVZg: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "ZyhTcS0FirI",
+    "url": "https://www.youtube.com/watch?v=ZyhTcS0FirI",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] ZyhTcS0FirI: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "No0-vEYExZQ",
+    "url": "https://www.youtube.com/watch?v=No0-vEYExZQ",
+    "status": "done"
+  },
+  {
+    "video_id": "Um1Zh1H-w6s",
+    "url": "https://www.youtube.com/watch?v=Um1Zh1H-w6s",
+    "status": "done"
+  },
+  {
+    "video_id": "vj3eDeYsStA",
+    "url": "https://www.youtube.com/watch?v=vj3eDeYsStA",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] vj3eDeYsStA: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "_0Sb00TfVaQ",
+    "url": "https://www.youtube.com/watch?v=_0Sb00TfVaQ",
+    "status": "done"
+  },
+  {
+    "video_id": "yehw4zZodt0",
+    "url": "https://www.youtube.com/watch?v=yehw4zZodt0",
+    "status": "done"
+  },
+  {
+    "video_id": "ZwOJY8CTGis",
+    "url": "https://www.youtube.com/watch?v=ZwOJY8CTGis",
+    "status": "done"
+  },
+  {
+    "video_id": "17-LaddpwMs",
+    "url": "https://www.youtube.com/watch?v=17-LaddpwMs",
+    "status": "done"
+  },
+  {
+    "video_id": "JzDNe9DPUOY",
+    "url": "https://www.youtube.com/watch?v=JzDNe9DPUOY",
+    "status": "done"
+  },
+  {
+    "video_id": "WnplHGivGtE",
+    "url": "https://www.youtube.com/watch?v=WnplHGivGtE",
+    "status": "done"
+  },
+  {
+    "video_id": "9QuSqJIMjvE",
+    "url": "https://www.youtube.com/watch?v=9QuSqJIMjvE",
+    "status": "done"
+  },
+  {
+    "video_id": "leKpvpFbzao",
+    "url": "https://www.youtube.com/watch?v=leKpvpFbzao",
+    "status": "done"
+  },
+  {
+    "video_id": "bzEINLNJI4w",
+    "url": "https://www.youtube.com/watch?v=bzEINLNJI4w",
+    "status": "done"
+  },
+  {
+    "video_id": "GMn5coFPLSs",
+    "url": "https://www.youtube.com/watch?v=GMn5coFPLSs",
+    "status": "done"
+  },
+  {
+    "video_id": "RMSwO0LM3n4",
+    "url": "https://www.youtube.com/watch?v=RMSwO0LM3n4",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] RMSwO0LM3n4: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "tlhvttW6JGA",
+    "url": "https://www.youtube.com/watch?v=tlhvttW6JGA",
+    "status": "done"
+  },
+  {
+    "video_id": "VAbtirZa_nk",
+    "url": "https://www.youtube.com/watch?v=VAbtirZa_nk",
+    "status": "done"
+  },
+  {
+    "video_id": "_6_zGMHjElM",
+    "url": "https://www.youtube.com/watch?v=_6_zGMHjElM",
+    "status": "done"
+  },
+  {
+    "video_id": "WU336Yho4Vo",
+    "url": "https://www.youtube.com/watch?v=WU336Yho4Vo",
+    "status": "done"
+  },
+  {
+    "video_id": "jBquj9KLgII",
+    "url": "https://www.youtube.com/watch?v=jBquj9KLgII",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] jBquj9KLgII: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "t1_JwjXWB8U",
+    "url": "https://www.youtube.com/watch?v=t1_JwjXWB8U",
+    "status": "done"
+  },
+  {
+    "video_id": "Lcr76E28Mdg",
+    "url": "https://www.youtube.com/watch?v=Lcr76E28Mdg",
+    "status": "done"
+  },
+  {
+    "video_id": "h8_7PQrYS6k",
+    "url": "https://www.youtube.com/watch?v=h8_7PQrYS6k",
+    "status": "done"
+  },
+  {
+    "video_id": "ZLZb0rJvb78",
+    "url": "https://www.youtube.com/watch?v=ZLZb0rJvb78",
+    "status": "done"
+  },
+  {
+    "video_id": "5Bgu30ZWKQo",
+    "url": "https://www.youtube.com/watch?v=5Bgu30ZWKQo",
+    "status": "done"
+  },
+  {
+    "video_id": "lkpAm63Ic6g",
+    "url": "https://www.youtube.com/watch?v=lkpAm63Ic6g",
+    "status": "done"
+  },
+  {
+    "video_id": "DIsO7B8Ftfk",
+    "url": "https://www.youtube.com/watch?v=DIsO7B8Ftfk",
+    "status": "done"
+  },
+  {
+    "video_id": "GGYQUuYOw_I",
+    "url": "https://www.youtube.com/watch?v=GGYQUuYOw_I",
+    "status": "done"
+  },
+  {
+    "video_id": "psC5ugFPlF4",
+    "url": "https://www.youtube.com/watch?v=psC5ugFPlF4",
+    "status": "done"
+  },
+  {
+    "video_id": "4DqQiKu1_RE",
+    "url": "https://www.youtube.com/watch?v=4DqQiKu1_RE",
+    "status": "done",
+    "error": "\u001b[0;31mERROR:\u001b[0m [youtube] 4DqQiKu1_RE: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
+  },
+  {
+    "video_id": "pKrQzjqewEI",
+    "url": "https://www.youtube.com/watch?v=pKrQzjqewEI",
+    "status": "done"
+  },
+  {
+    "video_id": "8sVp3WjhjTc",
+    "url": "https://www.youtube.com/watch?v=8sVp3WjhjTc",
+    "status": "done"
+  }
+]

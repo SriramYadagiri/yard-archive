@@ -1,0 +1,22 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Large/unneeded for deployment
+data/audio/
+data/chroma/
+data/transcripts/
+stored_results/
+src/bm25_index.pkl
+
+# Local authentication/session material
+src/cookies.txt
+
+# OS
+.DS_Store
