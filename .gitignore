@@ -12,6 +12,7 @@ frontend/dist/
 data/audio/
 data/chroma/
 data/transcripts/
+yard-search-data.tar.gz
 stored_results/
 src/bm25_index.pkl
 

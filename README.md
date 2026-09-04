@@ -168,3 +168,24 @@ On its first boot, the API streams the archive directly into `/var/data`. Later 
 - Search requests are limited to 10 per minute per IP.
 - Query text is limited to 300 characters.
 - The frontend stores recent search metadata in local storage and result payloads in per-tab session storage.
+
+## Azure deployment
+
+For a lower-cost student deployment, the project can run as:
+
+- An Azure Static Web App for the React frontend
+- An Azure Container App for the FastAPI backend
+- An Azure Files share mounted at `/var/data`
+- A private Blob containing `yard-search-data.tar.gz` for the first restore
+
+The root `Dockerfile` builds only the API dependencies from `requirements-api.txt`. The Container App must receive `OPENAI_API_KEY`, `DATA_ARCHIVE_URL`, and `ALLOWED_ORIGINS`; it should expose port `8000` and mount its Azure Files volume at `/var/data`.
+
+The Static Web App build settings are:
+
+```text
+App location: frontend
+API location: (empty)
+Output location: dist
+```
+
+Set `VITE_API_URL` during the frontend build to the Container App's full `/search` URL.
